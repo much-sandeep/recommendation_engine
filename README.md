@@ -27,7 +27,7 @@ The Google Trends Recommendation Engine is a Streamlit application that fetches 
    streamlit run app.py
    ```
 4. **Interface**
-   ![The Main App Page](resources\first.png)
+   ![The Main App Page](resources/first.png)
 
 ## Work in Progress
 
